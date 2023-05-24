@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "next": "canary",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "name": "site",
+  "scripts": {
+    "build": "next build",
+    "dev": "next",
+    "start": "next start"
+  },
+  "version": "0.0.1"
+}
